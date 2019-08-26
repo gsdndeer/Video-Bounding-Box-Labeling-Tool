@@ -2,7 +2,7 @@
 
 This tool is using SiamMask tracker. I expand the SiamMask to multi-object tracking. It can create VOC and YOLO format file.
 
-<img src=>
+<img src="https://github.com/gsdndeer/Video-Bounding-Box-Labelling-Tool/blob/master/figures/init.gif">
 
 
 
