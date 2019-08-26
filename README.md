@@ -10,6 +10,7 @@ This tool is using SiamMask tracker. I expand the SiamMask to multi-object track
 
 1. Clone the repository
 ```
+git clone https://github.com/gsdndeer/Video-Bounding-Box-Labelling-Tool.git
 ```
 
 2. Environment setup, following [SiamMask](https://github.com/foolwood/SiamMask#environment-setup)
