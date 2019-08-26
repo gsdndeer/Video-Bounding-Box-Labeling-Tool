@@ -29,7 +29,7 @@ python ../../tools/labelling.py --resume SiamMask_DAVIS.pth --config config_davi
 
   * If you want to add new trackers, press ```crtl+c```
   
-  <img src=>
+  <img src="https://github.com/gsdndeer/Video-Bounding-Box-Labelling-Tool/blob/master/figures/add_tracker.gif">
   
 ## Acknowledgement
 
