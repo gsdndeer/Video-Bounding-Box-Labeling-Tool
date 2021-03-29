@@ -10,14 +10,14 @@ This tool is using SiamMask tracker. I expand the SiamMask to multi-object track
 
 1. Clone the repository
 ```
-git clone https://github.com/gsdndeer/Video-Bounding-Box-Labelling-Tool.git
+git clone https://github.com/gsdndeer/Video-Bounding-Box-Labeling-Tool.git
 ```
 
 2. Environment setup, following [SiamMask](https://github.com/foolwood/SiamMask#environment-setup)
 
 3. Download the [SiamMask model](https://github.com/foolwood/SiamMask#demo)
 
-4. Put the video under /Video-Bounding-Box-Labelling-Tool-master/data/, and run ```python video_to_image.py``` to produce images.
+4. Put the video under /Video-Bounding-Box-Labeling-Tool-master/data/, and run ```python video_to_image.py``` to produce images.
 
 5. Run ```python labelling.py```
 ```
