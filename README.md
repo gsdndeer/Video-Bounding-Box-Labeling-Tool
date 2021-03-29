@@ -1,4 +1,4 @@
-# Video-Bounding-Box-Labelling-Tool
+# Video-Bounding-Box-Labeling-Tool
 
 This tool is using SiamMask tracker. I expand the SiamMask to multi-object tracking. It can create VOC and YOLO format file.
 
