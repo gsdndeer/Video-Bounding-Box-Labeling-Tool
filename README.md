@@ -2,6 +2,8 @@
 
 This tool is using SiamMask tracker. I expand the SiamMask to multi-object tracking. It can create VOC and YOLO format file.
 
+Originally, SiamMask is a single object tracking framework. However, it is necessary to label multiple bounding boxes at the same time. Therefore, I expand the SiamMask to multi-object tracking.
+
 <img src="https://github.com/gsdndeer/Video-Bounding-Box-Labelling-Tool/blob/master/figures/init.gif">
 
 
